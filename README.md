@@ -31,9 +31,10 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![alt text](em1.png)
+![alt text](image.png)
 ### Output:
-![alt text](em2.png)
+![alt text](image-1.png)
+![alt text](517217138-c63abaf2-3a9b-468b-a7ad-d6965d19c8b7.jpg)
 
 ### Name:Hari Ram R
 ### Register Number:212224240050
